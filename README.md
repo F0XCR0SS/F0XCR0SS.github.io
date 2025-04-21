@@ -8,4 +8,4 @@ A basic software developer portfolio that will be updated with relevant projects
 - JavaScript
 
 ## Link to Website
-https://f0xcr0ss.github.io/#contact
+https://f0xcr0ss.github.io
